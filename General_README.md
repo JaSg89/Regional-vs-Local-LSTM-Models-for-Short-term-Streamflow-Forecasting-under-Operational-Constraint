@@ -1,6 +1,6 @@
 # 📄 Regional vs. Local LSTM Models for Short-term Streamflow Forecasting under Operational Constraints
 
-**Authors:** Saavedra-Garrido, J., Arévalo, J., Córdova, A. M., Velandia, D., De La Fuente, L., Tapia, A., Paredes-Arroyo, C., Álvarez, P., Reyes-Serrano, H., & Salas, R. (2025)
+**Authors:** Saavedra-Garrido, J., Arévalo, J., De La Fuente, L., Tapia, A., Paredes-Arroyo, Córdova, A. M., Velandia, D., C., Álvarez, P., Reyes-Serrano, H., & Salas, R. (2025)
 
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)  ![Stars](https://img.shields.io/github/stars/your-username/Regional-vs-Local-LSTM-Models-for-Short-term-Streamflow-Forecasting-under-Operational-Constraint.svg?style=social)
 
@@ -14,7 +14,7 @@ This repository brings together all code, scripts, and resources to run and anal
 - `LOCAL_MODELS/` — Sequence generation and forecasting with local LSTM models, each trained independently for individual catchments.  
 - `REGIONAL_MODELS/` — Data preparation and forecasting with the regional LSTM model, trained globally on data from all catchments.  
 - `FIGURES/` — Scripts to generate figures, plots, and maps used in the article.  
-- `data/` (optional) — Original data files (CSV or binary formats), if applicable.  
+
 
 ---
 
@@ -56,8 +56,8 @@ The associated article is currently under review.
 **BibTeX:**
 ```bibtex
 @unpublished{Autor2025_HidroCL,
-  title        = {Advantages of Regional Training on a LSTM model for Streamflow Forecasting under Operational Constraints},
-  author       = {Jorge Saavedra-Garrido and Jorge Arévalo and Ana María Córdova and Daira Velandia and Luis De La Fuente and Aldo Tapia and Christopher Paredes-Arroyo and Pablo Álvarez and Héctor Reyes-Serrano and Rodrigo Salas},
+  title        = {Regional vs Local LSTM Models for Short-term Streamflow Forecasting under Operational Constraints},
+  author       = {Jorge Saavedra-Garrido, Jorge Arévalo, Luis De La Fuente, Aldo Tapia, Christopher Paredes-Arroyo, Ana María Córdova, Daira Velandia, Pablo Álvarez, Héctor Reyes-Serrano, Rodrigo Salas},
   year         = {2025},
   note         = {Manuscript under review},
   organization = {Proyecto FONDEF HidroCL}
@@ -67,7 +67,7 @@ The associated article is currently under review.
 ---
 
 **APA Citation (2025):**  
-Saavedra-Garrido, J., Arévalo, J., Córdova, A. M., Velandia, D., De La Fuente, L., Tapia, A., Paredes-Arroyo, C., Álvarez, P., Reyes-Serrano, H., & Salas, R. (2025). *Advantages of Regional Training on a LSTM model for Streamflow Forecasting under Operational Constraints* [Manuscript under review]. Proyecto FONDEF HidroCL.
+Saavedra-Garrido, J., Arévalo, J., De La Fuente, L., Tapia, A., Paredes-Arroyo, C., Córdova, A. M., Velandia, D., Álvarez, P., Reyes-Serrano, H., & Salas, R. (2025). *Regional vs Local LSTM Models for Short-term Streamflow Forecasting under Operational Constraints* [Manuscript under review]. Proyecto FONDEF HidroCL.
 
 ---
 
